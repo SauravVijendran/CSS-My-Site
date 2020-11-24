@@ -66,14 +66,14 @@ p {
 
 .top-cloud {
   position: absolute;
-  top: 50px;
-  right: 300px;
+  top: 10%;
+  right: 20%;
 }
 
 .bottom-cloud {
   position: absolute;
-  bottom: 300px;
-  left: 300px;
+  bottom: 25%;
+  left: 15%;
 }
 
 .skill-row {
